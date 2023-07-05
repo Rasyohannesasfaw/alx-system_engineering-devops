@@ -1,2 +1,2 @@
 #!/bin/bash
-file -m school.mgc schooldata.dat
+./detect_school_file.sh /path/to/your/school/file
