@@ -1,2 +1,2 @@
-#!/bin/bash
-./detect_school_file.sh /path/to/your/school/file
+0 string SCHOOL school data
+!:mime school
