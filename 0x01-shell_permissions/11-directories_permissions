@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x add_exec_perms.sh
+chmod -R +x 0x01-shell_permissions
